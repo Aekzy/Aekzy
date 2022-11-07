@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aekzy
+- 🌱 I’m currently learning Blazor WebAssembly Flamework
+- 📫 How to reach me by Email: Aphisit_rsp@hotmail.com
